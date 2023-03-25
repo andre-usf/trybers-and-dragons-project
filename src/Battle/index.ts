@@ -1,5 +1,3 @@
-// import Battle from './Battle';
+import Battle from './Battle';
 
-// export default Battle;
-
-// Iniciando o projeto
+export default Battle;
