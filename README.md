@@ -15,7 +15,7 @@ O projeto foi desenvolvido durante o módulo de back-end na [Trybe](https://www.
 
 - TypeScript;
 - Aplicação da Programação Orientada a Objetos (POO) e seus conceitos de abstração, encapsulamento, herança (composição) e polimorfismo;
-- Princípios SOLID, uma tentativa :sweat_smile: .
+- Princípios SOLID, uma tentativa.
 
 ## Instalação com Docker:
 
